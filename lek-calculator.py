@@ -1,6 +1,6 @@
 print("Welcome to the calculator!")
 
-operator = input("Choose your arithmetic(+, -, *, /):")
+operator = input("Choose your operation(+, -, *, /):")
 
 
 try:
