@@ -27,7 +27,6 @@ print(firstName.lower() + "." + lastName.lower() + "@" + domain.lower())
 
 
 
-
 tecken = """() parenteser, 
 [] hakparanteser 
 {} måsvingar 
